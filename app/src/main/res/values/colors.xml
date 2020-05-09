@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="gamingFieldBackgroudColor">#797979</color>
+    <color name="BlackColor">#0A0A0A</color>
+    <color name="RedColor">#FA0000</color>
+
+</resources>
